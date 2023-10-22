@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">messenger</string>
-    <string name="type_a_message">Type a message</string>
-    <string name="send">send</string>
-    <string name="image">IMAGE</string>
-</resources>
